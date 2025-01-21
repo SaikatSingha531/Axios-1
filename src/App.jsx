@@ -5,6 +5,7 @@ import './App.css'
 import Quots from './Components/quots'
 import Chatgpt1 from './Components/Chatgpt1'
 import FetchData from './Components/FetchData'
+import AxiosThapa from './Components/AxiosThapa'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     {/* <Quots/> */}
     {/* <Chatgpt1/> */}
     {/* <FetchData/> */}
+    <AxiosThapa/>
     </>
   )
 }
